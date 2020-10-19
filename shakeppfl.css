@@ -1,0 +1,332 @@
+.topi,
+.find {
+	position: absolute;
+	padding-right: 10px;
+	vertical-align: middle;
+	box-sizing: border-box
+}
+
+
+.jane {
+ 
+
+   
+}
+
+.eldery {
+font-size: 1em;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-size: contain;
+    background-color: #fff; 
+    clear: both;
+    background-repeat: no-repeat;
+    background-position: top;
+    position: relative;
+}
+  
+.cole {
+	   display: flex;              /* establish flex container */
+    flex-direction: column;     /* stack flex items vertically */
+    justify-content: center;    /* center items vertically, in this case */
+    align-items: center;        /* center items horizontally, in this case */
+    height: auto;
+    border: 1px solid black;
+	
+}
+ 
+.abudhabi {
+    position: absolute;
+    margin-top: 503px;
+    border-radius: 5px;
+    width: 534px;
+    background: white;
+    height: auto;
+    padding-bottom: 37px;
+    padding-top: 19px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border: 0;
+}
+
+.topi {
+width: 327px;
+    outline: 0;
+    line-height: 22px;
+    letter-spacing: .2px;
+    -webkit-font-smoothing: antialiased;
+    font: 99% Arial, Helvetica, sans-serif;
+    background: transparent;
+    margin-top: 18px;
+    font-size: 17px;
+    box-shadow: none;
+    border-radius: 2px;
+    border: 0;
+    font-weight: 400;
+    color: rgba(0,0,0,0.9);
+    position: relative;
+    z-index: 1;
+    height: 52px;
+    padding: 9px 12px 6px;
+	font-family: Core Sans, Helvetica, Arial, sans-serif; 
+	font-weight: 500;
+
+}
+
+::placeholder {
+	 
+
+	font-size: 17px;
+	font-weight: 500;
+	font-family: Core Sans, Helvetica, Arial, sans-serif; 
+	color: #BFBFCB;
+}
+
+.input:focus{
+		outline: 0!important; 
+	border-bottom: solid 2px #1927F0;
+	background: #fff;
+}
+
+
+.sinput:invalid{
+		outline: 0!important; 
+	border: solid 1px red;
+	border-radius: 3px;
+}
+
+.life:focus {
+	border: 0;
+	
+		outline: 0!important;
+}
+
+.find {
+width: 327px;
+    outline: 0;
+    line-height: 22px;
+    letter-spacing: .2px;
+    -webkit-font-smoothing: antialiased;
+    font: 99% Arial, Helvetica, sans-serif;
+    background: transparent;
+    margin-top: 18px;
+    font-size: 17px;
+    box-shadow: none;
+    border-radius: 2px;
+    border: 0;
+    font-weight: 400;
+    color: rgba(0,0,0,0.9);
+    position: relative;
+    z-index: 1;
+    height: 52px;
+    padding: 9px 12px 6px;
+	font-family: Core Sans, Helvetica, Arial, sans-serif; 
+	font-weight: 500;
+}
+
+.money {
+     margin-top: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 327px;
+    height: 57px;
+    overflow-x: auto;
+    font-weight: 700;
+}
+
+.left{
+  float:left;
+}
+
+.clear{
+  clear:both;
+}
+
+body, html {
+  height: 100%;
+}
+
+.box{
+  float: left;
+    overflow: hidden;
+    background: #fffffff5;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    position: fixed;
+    }
+    /* Add padding and border to inner content
+    for better animation effect */
+     
+	 
+div, span, button{
+font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}	
+
+.hig {
+position: fixed;
+    text-align: center;
+    background-color: #1927F0;
+    height: 47px;
+    background-image: url(../jinku/run.png);
+	
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 1347px;
+    overflow-x: hidden;
+    background-position: left;
+    margin-top: 0;
+    z-index: 9999999999999999;
+}
+
+.pay {
+
+    text-align: center;
+    background-color: #1927F0;
+    height: 591px;
+    background-image: url(../jinku/login.png);
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 671px;
+    overflow-x: hidden;
+    background-position: center;
+    
+    z-index: 9 ;
+}
+
+
+
+.ray {
+ 
+    background-image: url(../jinku/side1.png); 
+	
+    background-repeat: no-repeat;
+    z-index: 9 ;
+}
+
+
+.reas {
+ 
+    background-image: url(../jinku/side2.png); 
+	
+    background-repeat: no-repeat;
+    z-index: 9 ;
+}
+
+.matterway {
+ 
+    background-image: url(../jinku/side3.png); 
+	
+    background-repeat: no-repeat;
+    z-index: 9 ;
+}
+
+ 
+.saintremi {
+ 
+    background-image: url(../jinku/side4.png); 
+	
+    background-repeat: no-repeat;
+    z-index: 9 ;
+}
+
+
+ 
+.juigat {
+background-image: url(../jinku/soide1.png);
+    background-repeat: no-repeat;
+    z-index: 9;
+    background-position: top right; 
+}
+
+ 
+
+.jpui.progress.rectangles li {
+    width: 100%;
+    height: .25rem;
+    background-color: #d8d8d8;
+    border-radius: .0625rem;
+    margin-right: .75rem;
+    border: .0625rem solid blue;
+}
+
+input[type="date"]:not(.has-value):before{
+  
+  	opacity: .7;
+	font-family: roboto;
+	color: #000;
+	font-size: 1rem;
+	font-weight: 700;
+  content: attr(placeholder);
+}
+
+
+span {
+ 
+    
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+
+.displayContainer { 
+    display: block; 
+    width: 100%;
+}
+.bottomFlex {
+    align-self: flex-end;
+}
+.centerFlex {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffd54f;
+}
+
+.container {
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+}
